@@ -1,0 +1,22 @@
+{
+  "name": "test-travis",
+  "version": "1.0.0",
+  "description": "Test project",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "build": "node build-script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinKreizl/message.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinKreizl/message/issues"
+  },
+  "homepage": "https://github.com/MartinKreizl/message#readme"
+}
